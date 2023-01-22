@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sodekiranavinash
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on web and data science projects
+- 💞️ I’m looking to contribute to open source projects based on python and c# 
 - 📫 How to reach me just leave a message at kiranavinash.sode@gmail.com
 
 <!---
