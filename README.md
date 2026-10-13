@@ -250,7 +250,11 @@ mission:  Ship enterprise-grade AI products from PoC → production → scale
   <img width="80%" src="https://streak-stats.demolab.com?user=sodekiranavinash&hide_border=true&theme=tokyonight&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="Streak stats" />
 </picture>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sodekiranavinash&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&area_color=7C3AED&title_color=22D3EE&custom_title=Contribution%20Activity" alt="Activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodekiranavinash&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodekiranavinash&theme=default" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodekiranavinash&theme=github_dark" alt="Contribution activity and profile summary" />
+</picture>
 
 <img width="95%" src="https://raw.githubusercontent.com/sodekiranavinash/sodekiranavinash/output/github-snake-dark.svg" alt="Contribution snake" />
 
