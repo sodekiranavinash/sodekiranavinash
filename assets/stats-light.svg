@@ -15,8 +15,8 @@
 <text x="24" y="199" font-size="11" font-weight="700" fill="#59636E" letter-spacing="1">TOP LANGUAGES</text>
 <g clip-path="url(#bar)">
   <rect x="24" y="206" width="447" height="10" fill="#EAEEF2"/>
-  <rect x="24.00" y="206" width="210.58" height="10" fill="#0891B2"/><rect x="234.58" y="206" width="201.09" height="10" fill="#7C3AED"/><rect x="435.67" y="206" width="21.75" height="10" fill="#6D28D9"/><rect x="457.42" y="206" width="13.58" height="10" fill="#0284C7"/>
+  <rect x="24.00" y="206" width="211.09" height="10" fill="#0891B2"/><rect x="235.09" y="206" width="200.66" height="10" fill="#7C3AED"/><rect x="435.75" y="206" width="21.70" height="10" fill="#6D28D9"/><rect x="457.45" y="206" width="13.55" height="10" fill="#0284C7"/>
 </g>
-<circle cx="28" cy="232" r="4" fill="#0891B2"/><text x="38" y="236" font-size="11" fill="#59636E">Python 47.1%</text><circle cx="131.92000000000002" cy="232" r="4" fill="#7C3AED"/><text x="141.92000000000002" y="236" font-size="11" fill="#59636E">TypeScript 45.0%</text><circle cx="260.48" cy="232" r="4" fill="#6D28D9"/><text x="270.48" y="236" font-size="11" fill="#59636E">HCL 4.9%</text><circle cx="339.76" cy="232" r="4" fill="#0284C7"/><text x="349.76" y="236" font-size="11" fill="#59636E">Other 3.0%</text>
+<circle cx="28" cy="232" r="4" fill="#0891B2"/><text x="38" y="236" font-size="11" fill="#59636E">Python 47.2%</text><circle cx="131.92000000000002" cy="232" r="4" fill="#7C3AED"/><text x="141.92000000000002" y="236" font-size="11" fill="#59636E">TypeScript 44.9%</text><circle cx="260.48" cy="232" r="4" fill="#6D28D9"/><text x="270.48" y="236" font-size="11" fill="#59636E">HCL 4.9%</text><circle cx="339.76" cy="232" r="4" fill="#0284C7"/><text x="349.76" y="236" font-size="11" fill="#59636E">Other 3.0%</text>
 <text x="471" y="242" font-size="9" fill="#59636E" text-anchor="end" opacity="0.75">updated 13 Oct 2026 · generated in GitHub Actions</text>
 </svg>
