@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+concurrency:
+  group: profile-assets
+
 jobs:
   generate:
     runs-on: ubuntu-latest

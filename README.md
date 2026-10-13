@@ -234,29 +234,14 @@ mission:  Ship enterprise-grade AI products from PoC → production → scale
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sodekiranavinash&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sodekiranavinash&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default&title_color=7C3AED&icon_color=0EA5E9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sodekiranavinash&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sodekiranavinash&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sodekiranavinash&layout=compact&langs_count=8&hide_border=true&title_color=7C3AED" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodekiranavinash&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sodekiranavinash&hide_border=true&theme=tokyonight&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sodekiranavinash&hide_border=true&ring=7C3AED&fire=0EA5E9&currStreakLabel=7C3AED" />
-  <img width="80%" src="https://streak-stats.demolab.com?user=sodekiranavinash&hide_border=true&theme=tokyonight&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="Streak stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodekiranavinash&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodekiranavinash&theme=default" />
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sodekiranavinash&theme=github_dark" alt="Contribution activity and profile summary" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sodekiranavinash/sodekiranavinash/main/assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sodekiranavinash/sodekiranavinash/main/assets/stats-light.svg" />
+  <img width="62%" src="https://raw.githubusercontent.com/sodekiranavinash/sodekiranavinash/main/assets/stats-dark.svg" alt="GitHub statistics: repositories, commits, pull requests, stars and top languages" />
 </picture>
 
 <img width="95%" src="https://raw.githubusercontent.com/sodekiranavinash/sodekiranavinash/output/github-snake-dark.svg" alt="Contribution snake" />
+
+<sub>Generated daily by GitHub Actions from the public GitHub API — self-hosted, no third-party widget service.</sub>
 
 </div>
 
