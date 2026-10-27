@@ -18,5 +18,5 @@
   <rect x="24.00" y="206" width="222.80" height="10" fill="#22D3EE"/><rect x="246.80" y="206" width="189.01" height="10" fill="#A78BFA"/><rect x="435.81" y="206" width="21.32" height="10" fill="#7C3AED"/><rect x="457.13" y="206" width="13.87" height="10" fill="#0EA5E9"/>
 </g>
 <circle cx="28" cy="232" r="4" fill="#22D3EE"/><text x="38" y="236" font-size="11" fill="#8B949E">Python 49.8%</text><circle cx="131.92000000000002" cy="232" r="4" fill="#A78BFA"/><text x="141.92000000000002" y="236" font-size="11" fill="#8B949E">TypeScript 42.3%</text><circle cx="260.48" cy="232" r="4" fill="#7C3AED"/><text x="270.48" y="236" font-size="11" fill="#8B949E">HCL 4.8%</text><circle cx="339.76" cy="232" r="4" fill="#0EA5E9"/><text x="349.76" y="236" font-size="11" fill="#8B949E">Other 3.1%</text>
-<text x="471" y="242" font-size="9" fill="#8B949E" text-anchor="end" opacity="0.75">updated 26 Oct 2026 · generated in GitHub Actions</text>
+<text x="471" y="242" font-size="9" fill="#8B949E" text-anchor="end" opacity="0.75">updated 27 Oct 2026 · generated in GitHub Actions</text>
 </svg>
